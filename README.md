@@ -1,1 +1,1 @@
-# Customer-behavio-analysis
+# Customer-behavior-analysis
